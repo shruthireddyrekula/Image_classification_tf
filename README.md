@@ -1,4 +1,4 @@
-# Image_classification using tensorflow 2 (keras)
+# Image_classification using Tensorflow 2 (Keras)
 
 This is a quick introduction to use tensorflow for image classification problem. Here are the steps we perform in this colab notebook:
 
