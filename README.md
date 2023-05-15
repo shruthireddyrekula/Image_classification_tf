@@ -18,6 +18,10 @@ Size of train data: 3000 images.
 Here are few randomly sampled images from the train data:
 
 ![sample image 1](./1.png)
+![sample image 1](./2.png)
+![sample image 1](./3.png)
+![sample image 1](./4.png)
+![sample image 1](./5.png)
 
 # Results
 
