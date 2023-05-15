@@ -11,9 +11,15 @@ This is a quick introduction to use tensorflow for image classification problem.
 4) Get the model predictions on new test images
 
 
-# Data Statistics and Results
+# Data
 
 Size of train data: 3000 images.
+
+Here are few randomly sampled images from the train data:
+
+![sample image 1](assets/my-logo.svg)
+
+# Results
 
 Train accuracy 89.8% with 0.2642 loss
 
