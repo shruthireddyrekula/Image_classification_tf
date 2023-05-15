@@ -17,7 +17,7 @@ Size of train data: 3000 images.
 
 Here are few randomly sampled images from the train data:
 
-![sample image 1](assets/my-logo.svg)
+![sample image 1](./1.png)
 
 # Results
 
