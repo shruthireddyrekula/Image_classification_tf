@@ -15,13 +15,23 @@ This is a quick introduction to use tensorflow for image classification problem.
 
 Size of train data: 3000 images.
 
+Here are few randomly sampled images from the train data:
+
+![sample image 1](./1.png)
+![sample image 1](./2.png)
+![sample image 1](./3.png)
+![sample image 1](./4.png)
+![sample image 1](./5.png)
+
 # Results
 
-Train accuracy 98.7% with 0.0383 loss
+Train accuracy 89.8% with 0.2642 loss
 
-Validation accuracy 98.5% with  0.046898 loss
+Validation accuracy 87.3% with  0.4302 loss
+
+Note that in the original colab (see reference 1), better accuracy (~92%) is obtained by using ~50000 images. 
 
 
 # References:
 
-1)https://www.coursera.org/learn/getting-started-with-tensor-flow2/ungradedLab/IKejq/cnn-classifier-for-the-mnist-dataset/lab?path=%2Fnotebooks%2F2%2Fprogramming_assignment%2FWeek%25202%2520Programming%2520Assignment.ipynb
+1) https://www.analyticsvidhya.com/blog/2020/03/tensorflow-2-tutorial-deep-learning/
